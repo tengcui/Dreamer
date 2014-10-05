@@ -1,0 +1,445 @@
+c:\users\administrator\documents\visual studio 2010\Projects\dreamer\dreamer\dreamer\bin\x86\Debug\dreamer.exe
+c:\users\administrator\documents\visual studio 2010\Projects\dreamer\dreamer\dreamer\bin\x86\Debug\dreamer.pdb
+c:\users\administrator\documents\visual studio 2010\Projects\dreamer\dreamer\dreamer\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2010\Projects\dreamer\dreamer\dreamer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\administrator\documents\visual studio 2010\Projects\dreamer\dreamer\dreamer\obj\x86\Debug\dreamer.exe
+c:\users\administrator\documents\visual studio 2010\Projects\dreamer\dreamer\dreamer\obj\x86\Debug\dreamer.pdb
+C:\Users\Administrator\documents\visual studio 2010\Projects\dreamer\dreamer\dreamer\bin\x86\Debug\dreamer.exe.config
+C:\Users\Administrator\documents\visual studio 2010\Projects\dreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\NormalNinja.png
+C:\Users\Administrator\documents\visual studio 2010\Projects\dreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\NormalNinja1.png
+C:\Users\Administrator\documents\visual studio 2010\Projects\dreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\B1.png
+C:\Users\Administrator\documents\visual studio 2010\Projects\dreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\B2.png
+C:\Users\Administrator\documents\visual studio 2010\Projects\dreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\Swordless Background a1.png
+C:\Users\Administrator\documents\visual studio 2010\Projects\dreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\rz.png
+C:\Users\Administrator\documents\visual studio 2010\Projects\dreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\SwordnGround.png
+C:\Users\Administrator\documents\visual studio 2010\Projects\dreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\SS-Haohmaru-2.quick.xnb
+C:\Users\Administrator\documents\visual studio 2010\Projects\dreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\SS-Haohmaru.xnb
+C:\Users\Administrator\documents\visual studio 2010\Projects\dreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\SS-Haohmaru-2.quick.wma
+C:\Users\Administrator\documents\visual studio 2010\Projects\dreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\SS-Haohmaru.wma
+C:\Users\Administrator\documents\visual studio 2010\Projects\dreamer\dreamer\dreamer\bin\x86\Debug\Content\Data\Monster.txt
+C:\Users\Administrator\documents\visual studio 2010\Projects\dreamer\dreamer\dreamer\bin\x86\Debug\Content\Data\Person.txt
+C:\Users\Administrator\documents\visual studio 2010\Projects\dreamer\dreamer\dreamer\bin\x86\Debug\Content\Data\Die.txt
+C:\Users\Administrator\documents\visual studio 2010\Projects\dreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\monster_cyclops_axe.png
+C:\Users\Administrator\documents\visual studio 2010\Projects\dreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\magic.png
+C:\Users\Administrator\documents\visual studio 2010\Projects\dreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\monsterFace.png
+C:\Users\Administrator\documents\visual studio 2010\Projects\dreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\WelcomeSound.wma
+C:\Users\Administrator\documents\visual studio 2010\Projects\dreamer\dreamer\dreamer\bin\x86\Debug\Content\Ui\CrossDart.png
+C:\Users\Administrator\documents\visual studio 2010\Projects\dreamer\dreamer\dreamer\bin\x86\Debug\Content\Ui\MainMenu.png
+C:\Users\Administrator\documents\visual studio 2010\Projects\dreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\WelcomeSound.xnb
+C:\Users\Administrator\documents\visual studio 2010\Projects\dreamer\dreamer\dreamer\bin\x86\Debug\Content\Font\TitleChicsa.xnb
+C:\Users\Administrator\documents\visual studio 2010\Projects\dreamer\dreamer\dreamer\bin\x86\Debug\Content\Font\TitleChicsaBig.xnb
+C:\Users\Administrator\documents\visual studio 2010\Projects\dreamer\dreamer\dreamer\bin\x86\Debug\Content\Font\MenuItemChicsa.xnb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\dreamer\dreamer\dreamer\bin\x86\Debug\Content\Font\CHICSA.TTF
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\dreamer\dreamer\dreamer\obj\x86\Debug\dreamer.frmLogo.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\dreamer\dreamer\dreamer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\dreamer\dreamer\dreamer\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\XNA US\dreamer\dreamer\dreamer\bin\x86\Debug\Content\Font\TitleChicsa.xnb
+F:\XNA US\dreamer\dreamer\dreamer\bin\x86\Debug\Content\Font\TitleChicsaBig.xnb
+F:\XNA US\dreamer\dreamer\dreamer\bin\x86\Debug\Content\Font\MenuItemChicsa.xnb
+F:\XNA US\dreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\WelcomeSound.xnb
+F:\XNA US\dreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\SS-Haohmaru-2.quick.xnb
+F:\XNA US\dreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\SS-Haohmaru.xnb
+F:\XNA US\dreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\WelcomeSound.wma
+F:\XNA US\dreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\SS-Haohmaru-2.quick.wma
+F:\XNA US\dreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\SS-Haohmaru.wma
+F:\XNA US\dreamer\dreamer\dreamer\bin\x86\Debug\Content\Font\CHICSA.TTF
+F:\XNA US\dreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\NormalNinja.png
+F:\XNA US\dreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\NormalNinja1.png
+F:\XNA US\dreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\B1.png
+F:\XNA US\dreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\B2.png
+F:\XNA US\dreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\Swordless Background a1.png
+F:\XNA US\dreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\rz.png
+F:\XNA US\dreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\SwordnGround.png
+F:\XNA US\dreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\monster_cyclops_axe.png
+F:\XNA US\dreamer\dreamer\dreamer\bin\x86\Debug\Content\Data\Monster.txt
+F:\XNA US\dreamer\dreamer\dreamer\bin\x86\Debug\Content\Data\Person.txt
+F:\XNA US\dreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\magic.png
+F:\XNA US\dreamer\dreamer\dreamer\bin\x86\Debug\Content\Data\Die.txt
+F:\XNA US\dreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\monsterFace.png
+F:\XNA US\dreamer\dreamer\dreamer\bin\x86\Debug\Content\Ui\CrossDart.png
+F:\XNA US\dreamer\dreamer\dreamer\bin\x86\Debug\Content\Ui\MainMenu.png
+F:\XNA US\dreamer\dreamer\dreamer\bin\x86\Debug\dreamer.exe.config
+F:\XNA US\dreamer\dreamer\dreamer\bin\x86\Debug\dreamer.exe
+F:\XNA US\dreamer\dreamer\dreamer\bin\x86\Debug\dreamer.pdb
+F:\XNA US\dreamer\dreamer\dreamer\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\XNA US\dreamer\dreamer\dreamer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\XNA US\dreamer\dreamer\dreamer\obj\x86\Debug\dreamer.frmLogo.resources
+F:\XNA US\dreamer\dreamer\dreamer\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\XNA US\dreamer\dreamer\dreamer\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\XNA US\dreamer\dreamer\dreamer\obj\x86\Debug\dreamer.exe
+F:\XNA US\dreamer\dreamer\dreamer\obj\x86\Debug\dreamer.pdb
+F:\XNA US\复件 dreamer\dreamer\dreamer\bin\x86\Debug\Content\Font\TitleChicsa.xnb
+F:\XNA US\复件 dreamer\dreamer\dreamer\bin\x86\Debug\Content\Font\TitleChicsaBig.xnb
+F:\XNA US\复件 dreamer\dreamer\dreamer\bin\x86\Debug\Content\Font\MenuItemChicsa.xnb
+F:\XNA US\复件 dreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\WelcomeSound.xnb
+F:\XNA US\复件 dreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\SS-Haohmaru-2.quick.xnb
+F:\XNA US\复件 dreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\SS-Haohmaru.xnb
+F:\XNA US\复件 dreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\WelcomeSound.wma
+F:\XNA US\复件 dreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\SS-Haohmaru-2.quick.wma
+F:\XNA US\复件 dreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\SS-Haohmaru.wma
+F:\XNA US\复件 dreamer\dreamer\dreamer\bin\x86\Debug\Content\Font\CHICSA.TTF
+F:\XNA US\复件 dreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\NormalNinja.png
+F:\XNA US\复件 dreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\NormalNinja1.png
+F:\XNA US\复件 dreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\B1.png
+F:\XNA US\复件 dreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\B2.png
+F:\XNA US\复件 dreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\Swordless Background a1.png
+F:\XNA US\复件 dreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\rz.png
+F:\XNA US\复件 dreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\SwordnGround.png
+F:\XNA US\复件 dreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\monster_cyclops_axe.png
+F:\XNA US\复件 dreamer\dreamer\dreamer\bin\x86\Debug\Content\Data\Monster.txt
+F:\XNA US\复件 dreamer\dreamer\dreamer\bin\x86\Debug\Content\Data\Person.txt
+F:\XNA US\复件 dreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\magic.png
+F:\XNA US\复件 dreamer\dreamer\dreamer\bin\x86\Debug\Content\Data\Die.txt
+F:\XNA US\复件 dreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\monsterFace.png
+F:\XNA US\复件 dreamer\dreamer\dreamer\bin\x86\Debug\Content\Ui\CrossDart.png
+F:\XNA US\复件 dreamer\dreamer\dreamer\bin\x86\Debug\Content\Ui\MainMenu.png
+F:\XNA US\复件 dreamer\dreamer\dreamer\bin\x86\Debug\dreamer.exe.config
+F:\XNA US\复件 dreamer\dreamer\dreamer\bin\x86\Debug\dreamer.exe
+F:\XNA US\复件 dreamer\dreamer\dreamer\bin\x86\Debug\dreamer.pdb
+F:\XNA US\复件 dreamer\dreamer\dreamer\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\XNA US\复件 dreamer\dreamer\dreamer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+F:\XNA US\复件 dreamer\dreamer\dreamer\obj\x86\Debug\dreamer.frmLogo.resources
+F:\XNA US\复件 dreamer\dreamer\dreamer\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\XNA US\复件 dreamer\dreamer\dreamer\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\XNA US\复件 dreamer\dreamer\dreamer\obj\x86\Debug\dreamer.exe
+F:\XNA US\复件 dreamer\dreamer\dreamer\obj\x86\Debug\dreamer.pdb
+C:\Users\Terrence\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Font\TitleChicsa.xnb
+C:\Users\Terrence\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Font\TitleChicsaBig.xnb
+C:\Users\Terrence\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Font\MenuItemChicsa.xnb
+C:\Users\Terrence\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\SS-Haohmaru.xnb
+C:\Users\Terrence\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\SS-Haohmaru.wma
+C:\Users\Terrence\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Font\CHICSA.TTF
+C:\Users\Terrence\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\NormalNinja.png
+C:\Users\Terrence\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\NormalNinja1.png
+C:\Users\Terrence\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\B1.png
+C:\Users\Terrence\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\B2.png
+C:\Users\Terrence\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\rz.png
+C:\Users\Terrence\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\magic.png
+C:\Users\Terrence\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Data\Die.txt
+C:\Users\Terrence\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Ui\CrossDart.png
+C:\Users\Terrence\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Ui\MainMenu.png
+C:\Users\Terrence\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\dreamer.exe.config
+C:\Users\Terrence\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\dreamer.exe
+C:\Users\Terrence\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\dreamer.pdb
+C:\Users\Terrence\Desktop\codedreamer\dreamer\dreamer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Terrence\Desktop\codedreamer\dreamer\dreamer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Terrence\Desktop\codedreamer\dreamer\dreamer\obj\x86\Debug\dreamer.frmLogo.resources
+C:\Users\Terrence\Desktop\codedreamer\dreamer\dreamer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Terrence\Desktop\codedreamer\dreamer\dreamer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Terrence\Desktop\codedreamer\dreamer\dreamer\obj\x86\Debug\dreamer.exe
+C:\Users\Terrence\Desktop\codedreamer\dreamer\dreamer\obj\x86\Debug\dreamer.pdb
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Font\TitleChicsa.xnb
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Font\TitleChicsaBig.xnb
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Font\MenuItemChicsa.xnb
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Font\CHICSA.TTF
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\NormalNinja.png
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\NormalNinja1.png
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\B1.png
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\B2.png
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\rz.png
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\magic.png
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Data\Die.txt
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Ui\CrossDart.png
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Ui\MainMenu.png
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\codedreamer\dreamer\dreamer\bin\x86\Debug\dreamer.exe.config
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\codedreamer\dreamer\dreamer\bin\x86\Debug\dreamer.exe
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\codedreamer\dreamer\dreamer\bin\x86\Debug\dreamer.pdb
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\codedreamer\dreamer\dreamer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\codedreamer\dreamer\dreamer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\codedreamer\dreamer\dreamer\obj\x86\Debug\dreamer.frmLogo.resources
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\codedreamer\dreamer\dreamer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\codedreamer\dreamer\dreamer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\codedreamer\dreamer\dreamer\obj\x86\Debug\dreamer.exe
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\codedreamer\dreamer\dreamer\obj\x86\Debug\dreamer.pdb
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\BackgroundImages\pSlow.xnb
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\BackgroundImages\pMid.xnb
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\BackgroundImages\pFast.xnb
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\BackgroundImages\Main1.xnb
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\BackgroundImages\NewB2.xnb
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\MainMenu1.xnb
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\MainMenu1.wma
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\MainMenu2.xnb
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\MainMenu2.wma
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\NearDeath.xnb
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\NearDeath.wma
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\SS-Haohmaru.xnb
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\Testament.xnb
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\SS-Haohmaru.wma
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\Testament.wma
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\Finish.xnb
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\Finish.wma
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\Impact.xnb
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\Impact.wma
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\EFace2.xnb
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\eFace1.png
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\SoundEffect\MenuSelect.xnb
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\SoundEffect\Start.xnb
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\SoundEffect\Phase.xnb
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\SoundEffect\lSwing.xnb
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\SoundEffect\hSwing.xnb
+C:\Users\Terrence\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\Testament.xnb
+C:\Users\Terrence\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\MainMenu2.xnb
+C:\Users\Terrence\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\MainMenu1.xnb
+C:\Users\Terrence\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\Finish.xnb
+C:\Users\Terrence\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\NearDeath.xnb
+C:\Users\Terrence\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\Impact.xnb
+C:\Users\Terrence\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\BackgroundImages\pSlow.xnb
+C:\Users\Terrence\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\BackgroundImages\pMid.xnb
+C:\Users\Terrence\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\BackgroundImages\pFast.xnb
+C:\Users\Terrence\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\BackgroundImages\Main1.xnb
+C:\Users\Terrence\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\BackgroundImages\NewB2.xnb
+C:\Users\Terrence\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\eFace2.xnb
+C:\Users\Terrence\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\SoundEffect\MenuSelect.xnb
+C:\Users\Terrence\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\SoundEffect\Start.xnb
+C:\Users\Terrence\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\SoundEffect\Phase.xnb
+C:\Users\Terrence\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\SoundEffect\lSwing.xnb
+C:\Users\Terrence\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\SoundEffect\hSwing.xnb
+C:\Users\Terrence\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\Testament.wma
+C:\Users\Terrence\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\MainMenu2.wma
+C:\Users\Terrence\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\MainMenu1.wma
+C:\Users\Terrence\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\Finish.wma
+C:\Users\Terrence\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\NearDeath.wma
+C:\Users\Terrence\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\Impact.wma
+C:\Users\Terrence\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\eFace1.png
+C:\Users\Terrence\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\SoundEffect\swordecho.xnb
+C:\Users\Terrence\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\Boss.xnb
+C:\Users\Terrence\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Font\ScoreChicsa.xnb
+C:\Users\Terrence\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\BackgroundImages\BossFace.xnb
+C:\Users\Owner\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Font\TitleChicsa.xnb
+C:\Users\Owner\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Font\TitleChicsaBig.xnb
+C:\Users\Owner\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Font\MenuItemChicsa.xnb
+C:\Users\Owner\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Font\ScoreChicsa.xnb
+C:\Users\Owner\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\SS-Haohmaru.xnb
+C:\Users\Owner\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\Testament.xnb
+C:\Users\Owner\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\MainMenu2.xnb
+C:\Users\Owner\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\MainMenu1.xnb
+C:\Users\Owner\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\Finish.xnb
+C:\Users\Owner\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\NearDeath.xnb
+C:\Users\Owner\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\Impact.xnb
+C:\Users\Owner\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\BackgroundImages\pSlow.xnb
+C:\Users\Owner\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\BackgroundImages\pMid.xnb
+C:\Users\Owner\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\BackgroundImages\pFast.xnb
+C:\Users\Owner\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\BackgroundImages\Main1.xnb
+C:\Users\Owner\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\BackgroundImages\NewB2.xnb
+C:\Users\Owner\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\eFace2.xnb
+C:\Users\Owner\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\Boss.xnb
+C:\Users\Owner\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\BackgroundImages\BossFace.xnb
+C:\Users\Owner\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\SoundEffect\MenuSelect.xnb
+C:\Users\Owner\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\SoundEffect\Start.xnb
+C:\Users\Owner\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\SoundEffect\Phase.xnb
+C:\Users\Owner\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\SoundEffect\lSwing.xnb
+C:\Users\Owner\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\SoundEffect\hSwing.xnb
+C:\Users\Owner\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\SoundEffect\swordecho.xnb
+C:\Users\Owner\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\SoundEffect\sAttack.xnb
+C:\Users\Owner\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\SoundEffect\sCrouch.xnb
+C:\Users\Owner\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\SoundEffect\sLarge.xnb
+C:\Users\Owner\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\SoundEffect\sStandAtt.xnb
+C:\Users\Owner\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\SS-Haohmaru.wma
+C:\Users\Owner\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\Testament.wma
+C:\Users\Owner\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\MainMenu2.wma
+C:\Users\Owner\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\MainMenu1.wma
+C:\Users\Owner\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\Finish.wma
+C:\Users\Owner\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\NearDeath.wma
+C:\Users\Owner\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\Impact.wma
+C:\Users\Owner\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Font\CHICSA.TTF
+C:\Users\Owner\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\NormalNinja.png
+C:\Users\Owner\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\NormalNinja1.png
+C:\Users\Owner\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\B1.png
+C:\Users\Owner\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\B2.png
+C:\Users\Owner\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\rz.png
+C:\Users\Owner\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\magic.png
+C:\Users\Owner\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Data\Die.txt
+C:\Users\Owner\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\eFace1.png
+C:\Users\Owner\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Ui\CrossDart.png
+C:\Users\Owner\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Ui\MainMenu.png
+C:\Users\Owner\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\dreamer.exe.config
+C:\Users\Owner\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\dreamer.exe
+C:\Users\Owner\Desktop\codedreamer\dreamer\dreamer\bin\x86\Debug\dreamer.pdb
+C:\Users\Owner\Desktop\codedreamer\dreamer\dreamer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\codedreamer\dreamer\dreamer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Owner\Desktop\codedreamer\dreamer\dreamer\obj\x86\Debug\dreamer.frmLogo.resources
+C:\Users\Owner\Desktop\codedreamer\dreamer\dreamer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Owner\Desktop\codedreamer\dreamer\dreamer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Owner\Desktop\codedreamer\dreamer\dreamer\obj\x86\Debug\dreamer.exe
+C:\Users\Owner\Desktop\codedreamer\dreamer\dreamer\obj\x86\Debug\dreamer.pdb
+E:\fall 2010\dis thang tau\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Font\TitleChicsa.xnb
+E:\fall 2010\dis thang tau\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Font\TitleChicsaBig.xnb
+E:\fall 2010\dis thang tau\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Font\MenuItemChicsa.xnb
+E:\fall 2010\dis thang tau\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Font\ScoreChicsa.xnb
+E:\fall 2010\dis thang tau\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\SS-Haohmaru.xnb
+E:\fall 2010\dis thang tau\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\Testament.xnb
+E:\fall 2010\dis thang tau\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\MainMenu2.xnb
+E:\fall 2010\dis thang tau\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\MainMenu1.xnb
+E:\fall 2010\dis thang tau\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\Finish.xnb
+E:\fall 2010\dis thang tau\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\NearDeath.xnb
+E:\fall 2010\dis thang tau\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\Impact.xnb
+E:\fall 2010\dis thang tau\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\BackgroundImages\pSlow.xnb
+E:\fall 2010\dis thang tau\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\BackgroundImages\pMid.xnb
+E:\fall 2010\dis thang tau\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\BackgroundImages\pFast.xnb
+E:\fall 2010\dis thang tau\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\BackgroundImages\Main1.xnb
+E:\fall 2010\dis thang tau\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\BackgroundImages\NewB2.xnb
+E:\fall 2010\dis thang tau\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\eFace2.xnb
+E:\fall 2010\dis thang tau\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\Boss.xnb
+E:\fall 2010\dis thang tau\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\BackgroundImages\BossFace.xnb
+E:\fall 2010\dis thang tau\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\SoundEffect\MenuSelect.xnb
+E:\fall 2010\dis thang tau\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\SoundEffect\Start.xnb
+E:\fall 2010\dis thang tau\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\SoundEffect\Phase.xnb
+E:\fall 2010\dis thang tau\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\SoundEffect\lSwing.xnb
+E:\fall 2010\dis thang tau\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\SoundEffect\hSwing.xnb
+E:\fall 2010\dis thang tau\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\SoundEffect\swordecho.xnb
+E:\fall 2010\dis thang tau\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\SoundEffect\sAttack.xnb
+E:\fall 2010\dis thang tau\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\SoundEffect\sCrouch.xnb
+E:\fall 2010\dis thang tau\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\SoundEffect\sLarge.xnb
+E:\fall 2010\dis thang tau\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\SoundEffect\sStandAtt.xnb
+E:\fall 2010\dis thang tau\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\SS-Haohmaru.wma
+E:\fall 2010\dis thang tau\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\Testament.wma
+E:\fall 2010\dis thang tau\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\MainMenu2.wma
+E:\fall 2010\dis thang tau\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\MainMenu1.wma
+E:\fall 2010\dis thang tau\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\Finish.wma
+E:\fall 2010\dis thang tau\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\NearDeath.wma
+E:\fall 2010\dis thang tau\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Sound\Impact.wma
+E:\fall 2010\dis thang tau\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Font\CHICSA.TTF
+E:\fall 2010\dis thang tau\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\NormalNinja.png
+E:\fall 2010\dis thang tau\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\NormalNinja1.png
+E:\fall 2010\dis thang tau\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\B1.png
+E:\fall 2010\dis thang tau\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\B2.png
+E:\fall 2010\dis thang tau\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\rz.png
+E:\fall 2010\dis thang tau\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\magic.png
+E:\fall 2010\dis thang tau\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Data\Die.txt
+E:\fall 2010\dis thang tau\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\eFace1.png
+E:\fall 2010\dis thang tau\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Ui\CrossDart.png
+E:\fall 2010\dis thang tau\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Ui\MainMenu.png
+E:\fall 2010\dis thang tau\codedreamer\dreamer\dreamer\bin\x86\Debug\dreamer.exe.config
+E:\fall 2010\dis thang tau\codedreamer\dreamer\dreamer\bin\x86\Debug\dreamer.exe
+E:\fall 2010\dis thang tau\codedreamer\dreamer\dreamer\bin\x86\Debug\dreamer.pdb
+E:\fall 2010\dis thang tau\codedreamer\dreamer\dreamer\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\fall 2010\dis thang tau\codedreamer\dreamer\dreamer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+E:\fall 2010\dis thang tau\codedreamer\dreamer\dreamer\obj\x86\Debug\dreamer.frmLogo.resources
+E:\fall 2010\dis thang tau\codedreamer\dreamer\dreamer\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\fall 2010\dis thang tau\codedreamer\dreamer\dreamer\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\fall 2010\dis thang tau\codedreamer\dreamer\dreamer\obj\x86\Debug\dreamer.exe
+E:\fall 2010\dis thang tau\codedreamer\dreamer\dreamer\obj\x86\Debug\dreamer.pdb
+E:\fall 2010\dis thang tau\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\blood.xnb
+E:\fall 2010\dis thang tau\codedreamer\dreamer\dreamer\bin\x86\Debug\Content\Graphics\dragonwarriorb.xnb
+C:\Users\Terrence\Desktop\DesktopFile\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Font\TitleChicsa.xnb
+C:\Users\Terrence\Desktop\DesktopFile\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Font\TitleChicsaBig.xnb
+C:\Users\Terrence\Desktop\DesktopFile\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Font\MenuItemChicsa.xnb
+C:\Users\Terrence\Desktop\DesktopFile\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Font\ScoreChicsa.xnb
+C:\Users\Terrence\Desktop\DesktopFile\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Sound\SS-Haohmaru.xnb
+C:\Users\Terrence\Desktop\DesktopFile\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Sound\Testament.xnb
+C:\Users\Terrence\Desktop\DesktopFile\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Sound\MainMenu2.xnb
+C:\Users\Terrence\Desktop\DesktopFile\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Sound\MainMenu1.xnb
+C:\Users\Terrence\Desktop\DesktopFile\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Sound\Finish.xnb
+C:\Users\Terrence\Desktop\DesktopFile\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Sound\NearDeath.xnb
+C:\Users\Terrence\Desktop\DesktopFile\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Sound\Impact.xnb
+C:\Users\Terrence\Desktop\DesktopFile\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Graphics\BackgroundImages\pSlow.xnb
+C:\Users\Terrence\Desktop\DesktopFile\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Graphics\BackgroundImages\pMid.xnb
+C:\Users\Terrence\Desktop\DesktopFile\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Graphics\BackgroundImages\pFast.xnb
+C:\Users\Terrence\Desktop\DesktopFile\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Graphics\BackgroundImages\Main1.xnb
+C:\Users\Terrence\Desktop\DesktopFile\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Graphics\BackgroundImages\NewB2.xnb
+C:\Users\Terrence\Desktop\DesktopFile\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Graphics\eFace2.xnb
+C:\Users\Terrence\Desktop\DesktopFile\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Graphics\Boss.xnb
+C:\Users\Terrence\Desktop\DesktopFile\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Graphics\BackgroundImages\BossFace.xnb
+C:\Users\Terrence\Desktop\DesktopFile\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Graphics\blood.xnb
+C:\Users\Terrence\Desktop\DesktopFile\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Graphics\dragonwarriorb.xnb
+C:\Users\Terrence\Desktop\DesktopFile\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Sound\SoundEffect\MenuSelect.xnb
+C:\Users\Terrence\Desktop\DesktopFile\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Sound\SoundEffect\Start.xnb
+C:\Users\Terrence\Desktop\DesktopFile\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Sound\SoundEffect\Phase.xnb
+C:\Users\Terrence\Desktop\DesktopFile\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Sound\SoundEffect\lSwing.xnb
+C:\Users\Terrence\Desktop\DesktopFile\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Sound\SoundEffect\hSwing.xnb
+C:\Users\Terrence\Desktop\DesktopFile\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Sound\SoundEffect\swordecho.xnb
+C:\Users\Terrence\Desktop\DesktopFile\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Sound\SoundEffect\sAttack.xnb
+C:\Users\Terrence\Desktop\DesktopFile\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Sound\SoundEffect\sCrouch.xnb
+C:\Users\Terrence\Desktop\DesktopFile\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Sound\SoundEffect\sLarge.xnb
+C:\Users\Terrence\Desktop\DesktopFile\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Sound\SoundEffect\sStandAtt.xnb
+C:\Users\Terrence\Desktop\DesktopFile\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Sound\SS-Haohmaru.wma
+C:\Users\Terrence\Desktop\DesktopFile\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Sound\Testament.wma
+C:\Users\Terrence\Desktop\DesktopFile\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Sound\MainMenu2.wma
+C:\Users\Terrence\Desktop\DesktopFile\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Sound\MainMenu1.wma
+C:\Users\Terrence\Desktop\DesktopFile\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Sound\Finish.wma
+C:\Users\Terrence\Desktop\DesktopFile\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Sound\NearDeath.wma
+C:\Users\Terrence\Desktop\DesktopFile\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Sound\Impact.wma
+C:\Users\Terrence\Desktop\DesktopFile\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Font\CHICSA.TTF
+C:\Users\Terrence\Desktop\DesktopFile\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Graphics\NormalNinja.png
+C:\Users\Terrence\Desktop\DesktopFile\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Graphics\NormalNinja1.png
+C:\Users\Terrence\Desktop\DesktopFile\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Graphics\B1.png
+C:\Users\Terrence\Desktop\DesktopFile\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Graphics\B2.png
+C:\Users\Terrence\Desktop\DesktopFile\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Graphics\rz.png
+C:\Users\Terrence\Desktop\DesktopFile\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Graphics\magic.png
+C:\Users\Terrence\Desktop\DesktopFile\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Data\Die.txt
+C:\Users\Terrence\Desktop\DesktopFile\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Graphics\eFace1.png
+C:\Users\Terrence\Desktop\DesktopFile\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Ui\CrossDart.png
+C:\Users\Terrence\Desktop\DesktopFile\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Ui\MainMenu.png
+C:\Users\Terrence\Desktop\DesktopFile\dreamercode\dreamer\dreamer\bin\x86\Debug\dreamer.exe.config
+C:\Users\Terrence\Desktop\DesktopFile\dreamercode\dreamer\dreamer\bin\x86\Debug\dreamer.exe
+C:\Users\Terrence\Desktop\DesktopFile\dreamercode\dreamer\dreamer\bin\x86\Debug\dreamer.pdb
+C:\Users\Terrence\Desktop\DesktopFile\dreamercode\dreamer\dreamer\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Terrence\Desktop\DesktopFile\dreamercode\dreamer\dreamer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Terrence\Desktop\DesktopFile\dreamercode\dreamer\dreamer\obj\x86\Debug\dreamer.frmLogo.resources
+C:\Users\Terrence\Desktop\DesktopFile\dreamercode\dreamer\dreamer\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Terrence\Desktop\DesktopFile\dreamercode\dreamer\dreamer\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Terrence\Desktop\DesktopFile\dreamercode\dreamer\dreamer\obj\x86\Debug\dreamer.exe
+C:\Users\Terrence\Desktop\DesktopFile\dreamercode\dreamer\dreamer\obj\x86\Debug\dreamer.pdb
+D:\dreamercode\dreamer\dreamer\obj\x86\Debug\dreamer.exe
+D:\dreamercode\dreamer\dreamer\obj\x86\Debug\dreamer.pdb
+D:\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Font\TitleChicsa.xnb
+D:\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Font\TitleChicsaBig.xnb
+D:\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Font\MenuItemChicsa.xnb
+D:\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Font\ScoreChicsa.xnb
+D:\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Sound\SS-Haohmaru.xnb
+D:\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Sound\Testament.xnb
+D:\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Sound\MainMenu2.xnb
+D:\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Sound\MainMenu1.xnb
+D:\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Sound\Finish.xnb
+D:\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Sound\NearDeath.xnb
+D:\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Sound\Impact.xnb
+D:\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Graphics\BackgroundImages\pSlow.xnb
+D:\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Graphics\BackgroundImages\pMid.xnb
+D:\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Graphics\BackgroundImages\pFast.xnb
+D:\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Graphics\BackgroundImages\Main1.xnb
+D:\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Graphics\BackgroundImages\NewB2.xnb
+D:\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Graphics\eFace2.xnb
+D:\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Graphics\Boss.xnb
+D:\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Graphics\BackgroundImages\BossFace.xnb
+D:\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Graphics\blood.xnb
+D:\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Graphics\dragonwarriorb.xnb
+D:\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Sound\SoundEffect\MenuSelect.xnb
+D:\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Sound\SoundEffect\Start.xnb
+D:\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Sound\SoundEffect\Phase.xnb
+D:\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Sound\SoundEffect\lSwing.xnb
+D:\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Sound\SoundEffect\hSwing.xnb
+D:\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Sound\SoundEffect\swordecho.xnb
+D:\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Sound\SoundEffect\sAttack.xnb
+D:\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Sound\SoundEffect\sCrouch.xnb
+D:\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Sound\SoundEffect\sLarge.xnb
+D:\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Sound\SoundEffect\sStandAtt.xnb
+D:\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Sound\SS-Haohmaru.wma
+D:\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Sound\Testament.wma
+D:\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Sound\MainMenu2.wma
+D:\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Sound\MainMenu1.wma
+D:\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Sound\Finish.wma
+D:\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Sound\NearDeath.wma
+D:\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Sound\Impact.wma
+D:\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Font\CHICSA.TTF
+D:\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Graphics\NormalNinja.png
+D:\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Graphics\NormalNinja1.png
+D:\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Graphics\B1.png
+D:\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Graphics\B2.png
+D:\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Graphics\rz.png
+D:\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Graphics\magic.png
+D:\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Data\Die.txt
+D:\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Graphics\eFace1.png
+D:\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Ui\CrossDart.png
+D:\dreamercode\dreamer\dreamer\bin\x86\Debug\Content\Ui\MainMenu.png
+D:\dreamercode\dreamer\dreamer\bin\x86\Debug\dreamer.exe.config
+D:\dreamercode\dreamer\dreamer\bin\x86\Debug\dreamer.exe.manifest
+D:\dreamercode\dreamer\dreamer\bin\x86\Debug\dreamer.application
+D:\dreamercode\dreamer\dreamer\bin\x86\Debug\dreamer.exe
+D:\dreamercode\dreamer\dreamer\bin\x86\Debug\dreamer.pdb
+D:\dreamercode\dreamer\dreamer\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\dreamercode\dreamer\dreamer\obj\x86\Debug\dreamer.frmLogo.resources
+D:\dreamercode\dreamer\dreamer\obj\x86\Debug\dreamer.csproj.GenerateResource.Cache
+D:\dreamercode\dreamer\dreamer\obj\x86\Debug\dreamer.TrustInfo.xml
+D:\dreamercode\dreamer\dreamer\obj\x86\Debug\dreamer.exe.manifest
+D:\dreamercode\dreamer\dreamer\obj\x86\Debug\dreamer.application
+D:\dreamercode\dreamer\dreamer\obj\x86\Debug\dreamer.csprojResolveAssemblyReference.cache

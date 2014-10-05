@@ -1,0 +1,9 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\dreamer\dreamer\dreamerContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\XNA US\dreamer\dreamer\dreamerContent\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\XNA US\复件 dreamer\dreamer\dreamerContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2010\Projects\codedreamer\dreamer\dreamerContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Terrence\Desktop\codedreamer\dreamer\dreamerContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\codedreamer\dreamer\dreamerContent\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\fall 2010\dis thang tau\codedreamer\dreamer\dreamerContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Terrence\Desktop\DesktopFile\dreamercode\dreamer\dreamerContent\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\dreamercode\dreamer\dreamerContent\obj\x86\Debug\dreamerContent.contentprojResolveAssemblyReference.cache
